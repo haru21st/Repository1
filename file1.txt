@@ -50,3 +50,15 @@ githubを勉強中
 ★コミットIDは、git log でも検索可能
 　git revert を実行した際、vimが起動したら「:q!」で強制終了でOK
 
+6. リセット
+　①commitの取り消し、②addの取り消し、③編集した内容をローカルファイルごと取り消しができる機能
+＜作業＞
+　①git reset --soft コミットID（もしくは「HEAD^」
+　②git reset --mixed コミットID（もしくは「HEAD^」
+　③git reset --head コミットID（もしくは「HEAD^」
+
+★「HEAD^」は「直前の」という意味
+
+
+
+
