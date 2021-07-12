@@ -10,7 +10,7 @@ githubを勉強中
 　・git commit -m "コミットメッセージを記入"
 　・git push origin master
 
-2. ブランチとは
+2. ブランチ
 　複数に分岐して履歴を残す（開発を行う）ことができる機能
 ＜操作＞
 　・git branch ブランチ名　：ブランチの作成
