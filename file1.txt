@@ -91,3 +91,4 @@ githubを勉強中
 　・git cherry-pick コミットID
 
 ①チェリーピック練習
+②チェリーピック練習
