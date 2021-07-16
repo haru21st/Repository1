@@ -90,3 +90,4 @@ githubを勉強中
 ＜作業＞
 　・git cherry-pick コミットID
 
+①チェリーピック練習
